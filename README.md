@@ -27,7 +27,9 @@ Follow the prompt to enter the date in the format `YYYY-MM-DD`. The script will 
 ## Environment Setup (Optional)
 For a more isolated environment, use a virtual environment:
 `python -m venv venv`
-`\nsource venv/bin/activate # On Windows, use venv\Scripts\activate`
+`source venv/bin/activate` 
+# On Windows, use 
+`venv\Scripts\activate`
 `pip install -r requirements.txt`
 
 
