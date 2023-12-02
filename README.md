@@ -5,7 +5,7 @@ This script, `playlist.py`, automates the process of creating a Spotify playlist
 
 ## Requirements
 To run this script, you'll need Python installed along with a few additional libraries. Install the required libraries using pip:
-pip install beautifulsoup4 requests spotipy python-dotenv
+`pip install beautifulsoup4 requests spotipy python-dotenv`
 
 
 ## Setting Up Spotify API Credentials
