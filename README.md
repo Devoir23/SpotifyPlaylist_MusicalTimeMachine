@@ -1,4 +1,3 @@
-# SpotifyPlaylist_MusicalTimeMachine
 # Billboard Spotify Playlist Creator
 
 ## Introduction
@@ -20,16 +19,16 @@ pip install beautifulsoup4 requests spotipy python-dotenv
 
 ## Usage
 Run the script with:
-python playlist.py
+`python playlist.py`
 
 
 Follow the prompt to enter the date in the format `YYYY-MM-DD`. The script will create a Spotify playlist with songs from the Billboard Hot 100 chart of that date.
 
 ## Environment Setup (Optional)
 For a more isolated environment, use a virtual environment:
-python -m venv venv
-source venv/bin/activate # On Windows, use venv\Scripts\activate
-pip install -r requirements.txt
+`python -m venv venv`
+`source venv/bin/activate # On Windows, use venv\Scripts\activate`
+`pip install -r requirements.txt`
 
 
 
